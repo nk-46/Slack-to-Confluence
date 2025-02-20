@@ -1,2 +1,4 @@
 .env
 confluence_data.db
+confluence_articles.csv
+ngrok
